@@ -9,6 +9,7 @@ from src.pipline.predict_pipeline import CustomData, PredictPipeline
 sys.path.append("/Users/reetu/Documents/Projects/AutopricingnewC2B/src/components/")
 application = Flask(__name__)
 
+
 app = application
 
 ## Route for home page
